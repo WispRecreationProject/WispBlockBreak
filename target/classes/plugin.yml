@@ -1,0 +1,8 @@
+name: WispBlockBreak
+version: 1.0-SNAPSHOT
+main: dev.yhdiamond.wispblockbreak.WispBlockBreak
+api-version: 1.16
+commands:
+  wispblockbreak:
+    description: Start the wisp block break challenge
+    usage: /wispblockbreak <start/stop/reload>
